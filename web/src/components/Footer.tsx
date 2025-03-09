@@ -91,15 +91,15 @@ export default function Footer() {
             <ul className="space-y-4">
               <motion.li whileHover={{ x: 5 }} className="flex items-center gap-3 text-gray-400">
                 <MapPin className="w-5 h-5 text-blue-500" />
-                <span>123 Tech Street, Digital City, 12345</span>
+                <span>INDIA</span>
               </motion.li>
               <motion.li whileHover={{ x: 5 }} className="flex items-center gap-3 text-gray-400">
                 <Phone className="w-5 h-5 text-blue-500" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 7905283565</span>
               </motion.li>
               <motion.li whileHover={{ x: 5 }} className="flex items-center gap-3 text-gray-400">
                 <Mail className="w-5 h-5 text-blue-500" />
-                <span>contact@digitalcraft.com</span>
+                <span>soporenetwork@gmail.com</span>
               </motion.li>
             </ul>
           </motion.div>
@@ -113,7 +113,7 @@ export default function Footer() {
           transition={{ delay: 0.5 }}
           className="mt-16 pt-8 border-t border-gray-800 text-center text-gray-400"
         >
-          <p>© 2024 DigitalCraft. All rights reserved.</p>
+          <p>© 2024 soporenetwork. All rights reserved.</p>
         </motion.div>
       </div>
     </footer>

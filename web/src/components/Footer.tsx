@@ -37,7 +37,7 @@ export default function Footer() {
             >
               <Code2 className="w-8 h-8 text-blue-500" />
               <span className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
-                DigitalCraft
+                SoporeNetwork
               </span>
             </motion.div>
             <p className="text-gray-400">

@@ -1,9 +1,9 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "sopre-network",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abu-bkr.github.io/your-repo-name",
+  "homepage": "https://abu-bkr.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

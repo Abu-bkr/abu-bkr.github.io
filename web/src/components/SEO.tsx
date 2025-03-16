@@ -13,8 +13,8 @@ const SEO = ({
   title = 'Sopore Network - Modern Digital Agency | Web, AI & DevOps Solutions',
   description = 'Full-service digital agency specializing in web development, AI/ML solutions, WebRTC, motion animations, chatbots, and DevOps services for businesses of all sizes.',
   keywords = 'digital agency, web development, frontend development, backend development, fullstack development, AI solutions, ML solutions, chatbots, DevOps, WebRTC, motion animations',
-  image = 'https://abu-bkr.github.io/og-image.jpg',
-  url = 'https://abu-bkr.github.io/',
+  image = 'https://soporenetwork.com/og-image.jpg',
+  url = 'https://soporenetwork.com/',
   type = 'website'
 }: SEOProps) => {
   return (
